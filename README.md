@@ -5,10 +5,10 @@
 还有为什么要使用python进行数据分析等章节
 
 ## 第2章 引言
--来自bit.ly的1.usa.gov数据：usa_gov.ipynb
--MoviesLens 1M数据集：MovieLens1M.ipynb
--1880-2010年间全美婴儿姓名：names.ipynb
--关于pandas的一些练习：pandas_test.ipynb
+*来自bit.ly的1.usa.gov数据：usa_gov.ipynb
+*MoviesLens 1M数据集：MovieLens1M.ipynb
+*1880-2010年间全美婴儿姓名：names.ipynb
+*关于pandas的一些练习：pandas_test.ipynb
 
 ## 第#章 IPython:一种交互式计算和开发环境
 
