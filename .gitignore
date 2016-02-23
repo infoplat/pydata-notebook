@@ -58,5 +58,8 @@ target/
 
 ch02/
 400/
+csv_pandas_test/
 
 400wan.ipynb
+csv_pandas_test.ipynb
+db.ipynb
