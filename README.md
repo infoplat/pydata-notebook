@@ -10,7 +10,10 @@ Enthought Canopy (Enthought Python Distribution):来自[Enthought](https://www.e
 * pandas(0.8.2版或z更高版本)
 
 EPDfree安装如下：
-1. 
+
+1. 下载epd_free-7.3-2-win-x86：[百度网盘](https://pan.baidu.com/s/1hrLDVpi)
+1. 双击安装epd_free-7.3-2-win-x86，安装前需要卸载机器上已安装的Python。文件默认安装在 c:\Python27
+1. 安装完成后，打开DOS，运行：python，可以打开命令行Python，并显示Python 2.7.3 |EPD_free 7.3-2 (32-bit)| (default, Apr 12 2012, 14:30:37) [MSC v.1500 32 bit (Intel)] on win32类似信息
 
 #### 本书主要内容
 还有为什么要使用python进行数据分析等章节
