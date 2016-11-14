@@ -29,7 +29,7 @@ pandas是Python数据分析包，详细介绍请百度一下。
 1. 下载最新版本二进制安装包：[本项目使用的版本](https://pan.baidu.com/s/1c2geQPy)、[官网最新版](https://pypi.python.org/pypi/pandas)。官网最新版pandas不一定匹配epd_free-7.3-2，建议下载本项目使用的版本
 1. 双击安装pandas，按完毕后就可以在Python中使用了
 
-### 下载利用Python进行数据分析电子书
+### 下载《利用Python进行数据分析》电子书
 [点击此百度网盘分享链接下载](https://pan.baidu.com/s/1jI6rafG)
 
 ## 本书主要内容
