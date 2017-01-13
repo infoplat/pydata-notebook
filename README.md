@@ -5,7 +5,7 @@
 >>天下难事，必作于易；天下大事，必作于细。
 >>--老子
 
-## 开发环境准备
+## 准备工作
 
 ### 安装EPD_free
 
@@ -33,26 +33,26 @@ pandas是Python数据分析包，详细介绍请百度一下。
 
 [点击下载](https://pan.baidu.com/s/1jI6rafG)
 
-## 《利用Python进行数据分析》章节内容
-
-还有为什么要使用python进行数据分析等章节
-
-### 引言
+## 引言
 
 * 来自bit.ly的1.usa.gov数据：usa_gov.ipynb
 * MoviesLens 1M数据集：MovieLens1M.ipynb
 * 1880-2010年间全美婴儿姓名：names.ipynb
 * 关于pandas的一些练习：pandas_test.ipynb
 
-### IPython
+## IPython:一种交互式计算和开发环境
 
-IPython:一种交互式计算和开发环境，下面介绍两种打开IPython方法：
+介绍两种打开IPython方法：
 
 * 在浏览器打开：执行Notebook PyLab.lnk
 * 在命令行打开：执行PyLab.lnk
 
-### 快速的过了一下，没有仔细看和动手练习
+代码：ch03.ipynb
 
-### NumPy基础：数组和矢量计算
+## NumPy基础：数组和矢量计算
 
-### pandas入门
+代码：ch04.ipynb
+
+## pandas入门
+
+代码：ch05.ipynb
