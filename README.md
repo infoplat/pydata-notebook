@@ -42,7 +42,7 @@ pandas是Python数据分析包，详细介绍请百度一下。
 
 ## IPython:一种交互式计算和开发环境
 
-介绍两种打开IPython方法：
+介绍两种打开IPython方法，使用下面方法需要EPDfree安装在c:\Python27，否则需要修改快捷方式的程序路径：
 
 * 在浏览器打开：执行Notebook PyLab.lnk
 * 在命令行打开：执行PyLab.lnk
